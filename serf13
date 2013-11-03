@@ -1,0 +1,1 @@
+scons APR=/opt/local/bin/apr-1-config APU=/opt/local/bin/apu-1-config OPENSSL=/usr/local PREFIX=/opt/local
